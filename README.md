@@ -9,9 +9,9 @@ Mitosheet in this demo needd to be installed using the instructions from their s
 https://docs.trymito.io/getting-started/installing-mito
 
 ## Technologies
-Python 3.9
-jupyterlab==3.1.18
-pandas==1.3.3
-plotly==5.3.0
-mitoinstaller==0.0.96     
-mitosheet3==0.3.157
+* Python 3.9
+* jupyterlab==3.1.18
+* pandas==1.3.3
+* plotly==5.3.0
+* mitoinstaller==0.0.96     
+* mitosheet3==0.3.157
