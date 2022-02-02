@@ -1,7 +1,7 @@
 # Data Cleansing Article for Medium
 
 ## Introduction
-<b>This code only runs in Jupyterlab because Mitosheet is only supported in Jupyterlab.<b>
+<b>This code only runs in Jupyterlab because Mitosheet is only supported in Jupyterlab.</b><br>
 You can remove Mitosheet references and it will run in Jupyter notebook<br>
 This code is used in my Medium article on Data cleansing and Plotting
 It is here to serve the purpose of illustrating what I did and how I did it.
