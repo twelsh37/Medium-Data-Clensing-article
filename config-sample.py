@@ -1,0 +1,1 @@
+token ='Insert your MAPBOX token here'
