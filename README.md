@@ -17,3 +17,7 @@ https://docs.trymito.io/getting-started/installing-mito
 * plotly==5.3.0
 * mitoinstaller==0.0.96     
 * mitosheet3==0.3.157
+
+## A note on config-sample.py
+You need to add your mapbox token to this file and rename it to config.py before running your notebook.
+This file and token saves your token out of the main codebase as it is mentioned in the .gitignore file
