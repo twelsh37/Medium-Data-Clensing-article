@@ -3,7 +3,7 @@
 ## Introduction
 <b>This code only runs in Jupyterlab because Mito is only supported in Jupyterlab.</b><br>
 You can remove Mito references and it will run in Jupyter notebook<br><br>
-This code is used in my Medium article on Data cleansing and Plotting
+This code is used in my Medium article on Data cleansing
 It is here to serve the purpose of illustrating what I did and how I did it.
 This code only runs in Jupyterlab because Mito is only supported in Jupyterlab.
 
